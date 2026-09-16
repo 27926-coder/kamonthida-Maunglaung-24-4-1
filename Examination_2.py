@@ -7,6 +7,6 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 n = int(input())
-if n = n*2 = "Even"
-elif:
+n = n*2 = "Even"
+
 print( n * 2 )
