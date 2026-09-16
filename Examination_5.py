@@ -11,5 +11,5 @@ age = int(input())
 if age = <12 = 50
    age = 12-59 = 100
    age = <59 = 0
-elif:
+
    print(<12  , 12-59  , <50 )
