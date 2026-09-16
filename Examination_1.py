@@ -7,4 +7,4 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 b = float(input())
 h = float(input())
-print(0.5 * b * h )
+print(0.5*b*h)
