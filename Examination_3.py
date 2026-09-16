@@ -10,4 +10,4 @@ score = int(input())
 score = >50 = "Pass"
 score = <50 = "Fail"
 
-   print( >50 , <50 )
+print( >50 , <50 )
