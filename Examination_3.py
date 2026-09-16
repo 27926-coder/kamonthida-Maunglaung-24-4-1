@@ -7,7 +7,7 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 score = int(input())
- score = >50 = "Pass"
-   score = <50 = "Fail"
+score = >50 = "Pass"
+score = <50 = "Fail"
 
    print( >50 , <50 )
