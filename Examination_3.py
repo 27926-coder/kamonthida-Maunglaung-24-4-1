@@ -7,7 +7,7 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 score = int(input())
-score = >50 = "Pass"
-score = <50 = "Fail"
-
+if score = >50 = "Pass"
+   score = <50 = "Fail"
+elif:
 print( >50 , <50 )
