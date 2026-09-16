@@ -12,6 +12,6 @@ score = int(input())
 if score =>=80 = A
    score =>=70 = B
    score =>=60 = C
-   score =>=50 =D
+   score =>=50 = D
 elif: 
    print( >=80 , >=70 , >=60 , >=50 )
