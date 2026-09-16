@@ -7,7 +7,6 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 score = int(input())
-if score = >50 = "Pass"
-print( >50 )
-score = <50 = "Fail" 
-print( <50 )
+score  <50
+score  >50 
+print( <50 , >50 )
